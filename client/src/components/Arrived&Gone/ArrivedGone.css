@@ -1,0 +1,13 @@
+
+.contaiiner {
+    margin-top: 40vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1000px;
+    margin-left: 30vh;
+}
+
+body{
+    background-color: rgb(182, 216, 240);
+}
